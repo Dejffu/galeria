@@ -1,9 +1,3 @@
-/**
- * @author Sławomir Kokłowski {@link https://www.kurshtml.edu.pl}
- * @copyright NIE usuwaj tego komentarza! (Do NOT remove this comment!)
- * @version 2.5.1
- */
-
 function GalleryModel(items) {
 	this.items = items || [];
 }
